@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 
 # Author : M Zaini Hasan
-# Site   : www.mzainihasan.com
+# Site   : www.mzhskycom
 
 import argparse
 import requests
