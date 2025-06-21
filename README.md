@@ -1,15 +1,21 @@
-# IPtrack
-Alat sederhana untuk melacak IP addres
-# Penulis
-M Zaini Hasan
-## Cara Memasang IPtrack di termux
-<ul type="disc">
-  <li>$git clone https://github.com/IPtrack/MzainiHasan.git</li>
-  <li>$cd IPtrack</li>
-  <li>$python2 IPtrack.py</li>
+[![Python](https://img.shields.io/badge/python-3.x-yellow)](https://www.python.org/)
 
-# Cara Memasang IPtrack  di Linux
-<ul type="disc">
-  <li>$git clone https://github.com/IPtrack/MzainiHasan.git<p></li>
-  <li>$cd IPtrack<p></li>
-  <li>$python IPtrack.py<p></l
+> Tool sederhana untuk melacak informasi lokasi IP address menggunakan API dari [ipwhois.io](https://ipwhois.io)
+
+## 🔧 Cara Penggunaan
+
+```bash
+python iptracker.py 8.8.8.8
+```
+
+## 🎯 Output
+
+- Kota, Negara, Ibukota
+- Benua, Tipe IP, Koordinat
+- Kode negara dan telepon
+
+---
+
+## ⚠️ Disclaimer
+
+Gunakan tool ini hanya untuk keperluan edukasi, riset, dan pengujian yang **diizinkan**. Jangan digunakan untuk hal negatif.
